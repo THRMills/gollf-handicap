@@ -1,2 +1,2 @@
-# gollf-handicap
+# golf-handicap
 golf handicap app
